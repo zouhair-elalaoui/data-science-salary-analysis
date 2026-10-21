@@ -75,7 +75,7 @@ These findings describe the dataset analyzed and should not be interpreted as un
 ## Repository Contents
 
 - `Projet_DataVisualisation.ipynb` — notebook containing the data analysis and visualizations.
-- `data_visualisation.pdf` — academic [Report](data_visualisation.pdf). describing the methodology, visualizations, findings, and conclusions.
+- `data_visualisation.pdf` — academic [Report](data_visualisation.pdf) describing the methodology, visualizations, findings, and conclusions.
 - `requirements.txt` — Python dependencies needed to run the notebook.
 
 ## Team Members
