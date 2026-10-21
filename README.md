@@ -25,4 +25,4 @@ For the complete methodology, visualizations, and results, see the [**Project Re
 
 ## Disclaimer
 
-This project was developed for academic purposes as part of the Big Data and Artificial Intelligence program at the École Nationale des Sciences Appliquées de Tétouan.
+This project was developed for academic purposes as part of the Big Data and Artificial Intelligence program.
