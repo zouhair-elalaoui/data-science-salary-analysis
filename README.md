@@ -8,7 +8,6 @@ This project explores salary trends in the Data Science and AI job market, using
 
 The analysis uses Python to explore salary distributions, compare key factors, identify temporal and geographical trends, and apply multivariate visualization techniques, including Principal Component Analysis (PCA).
 
-## Results & Performance
 
 For the complete methodology, visualizations, and results, see the [**Project Report**](data_visualisation.pdf).
 
